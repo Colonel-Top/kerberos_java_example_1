@@ -1,0 +1,11 @@
+gradle
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+creds.keytab
+gradle/
+security.token
+
